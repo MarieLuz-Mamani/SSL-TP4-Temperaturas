@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include ".. /dependecia/Conversion.h"
+#include "./dependecia/Conversion.h"
 
 #include <math.h>
 
